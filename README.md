@@ -23,7 +23,6 @@
 #####
 #####
 #####
-#####
   
 #### ✅ I’m also currently working and doing maintainance to my proyects:
 
@@ -32,16 +31,16 @@
 #####
 #####
   
- ###  🛒 [Patitas v2.0](https://patitas-v2.onrender.com/) (e-commerce)
+###  🛒 [Patitas v2.0](https://patitas-v2.onrender.com/) (e-commerce)
+
 
 #####
 #####
 #####
 #####
   
- ###  💼 [Personal Portfolio](https://portfolio-rodrigo-stochetta.onrender.com/)
+###  💼 [Personal Portfolio](https://portfolio-rodrigo-stochetta.onrender.com/)
 
-#####
 #####
 #####
 #####
