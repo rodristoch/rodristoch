@@ -63,16 +63,16 @@
 
 <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/rodrigo-stochetta/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/rodrigo-stochetta/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="" height="30"/></a>
-       <a href="https://wa.me/+5491136517343" target="blank"><img align="center"
+       <a href="https://wa.me/+5491136517343" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="" height="30"/></a>
-      <a href="mailto:rodrigostochetta@gmail.com" target="blank"><img align="center"
+      <a href="mailto:rodrigostochetta@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="" height="30"/></a>
-       <a href="https://github.com/rodristoch/discussions" target="blank"><img align="center"
+       <a href="https://github.com/rodristoch" target="_blank"><img align="center"
          src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white"
          alt="" height="30"/></a>
     
