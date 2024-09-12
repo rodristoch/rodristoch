@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-#### <p align="left">✅ Things I do everyday:</p>
+### <p align="left">➡️ Things I do everyday:</p>
 
 #####
 #####
@@ -26,7 +26,8 @@
 
 - [ ] Python next ![python](https://github.com/user-attachments/assets/668d26a2-e667-48d5-b390-622f3a15a885)
 
-- [ ] Machine Learning IA next
+- [ ] Machine Learning IA next ![microchip](https://github.com/user-attachments/assets/eb4b65b8-d072-46e1-a974-b382a7d91b7d)
+
 
 - [x] Always learning new things 🤓
 
@@ -36,7 +37,7 @@
 
 <br>
   
-#### <p align="left">✅ I’m also currently working and doing maintainance to my proyects:</p>
+### <p align="left">➡️ I’m also currently working and doing maintainance to my proyects:</p>
 
 
 ## <p align="center">🛒 [Patitas v2.0](https://patitas-v2.onrender.com/) (e-commerce)</p>
@@ -45,7 +46,7 @@
 
 
 
-#### <p align="left">✅ Technologies That I Know👨🏻‍💻</p>
+### <p align="left">➡️ Technologies That I Know👨🏻‍💻</p>
 
 <!--tech stack icons-->
 <p align="center">
@@ -54,12 +55,12 @@
   </a>
 </p>
 
-#### <p align="left">✅ GitHub Stats 📈:</p>
+### <p align="left">➡️ My GitHub Stats 📈:</p>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodristoch&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Rodrigo Stochetta GitHub stats](https://github-readme-stats.vercel.app/api?username=rodristoch&theme=algolia)](https://github.com/rodristoch/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodristoch&theme=algolia)](https://github.com/rodristoch/github-readme-stats)
 
-#### <p align="left">✅ Contact me:</p>
+### <p align="left">➡️ Contact me:</p>
 
 <p align="center">
       <br/>
