@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img style="font-size: 14px" src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,express,react,figma,discord,git,github,materialui,postgres,mysql,postman,vscode,perline=14" />
+    <img style="font-size: 14px" src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,express,react,figma,discord,git,github,materialui,postgres,mysql,sequelize,postman,vscode,perline=14" />
   </a>
 </p>
 
